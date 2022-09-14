@@ -1,3 +1,3 @@
 # Flexbox Layout Examples
 
-Learning the basics of flebox.
+Learning the basics of flexbox.
